@@ -1,0 +1,6 @@
+Train Data/
+Test Data/
+feature_cache/
+*.parquet
+__pycache__/
+.claude/
